@@ -21,7 +21,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFCA28?style=flat-square&logo=sqlalchemy&logoColor=black)
-![OWM](https://img.shields.io/badge/-OWM-FFA500?style=flat-square&logo=openweathermap&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/-OpenWeatherMap-FFA500?style=flat-square&logo=openweathermap&logoColor=white)
 ![telebot](https://img.shields.io/badge/-telebot-0088cc?style=flat-square&logo=telegram&logoColor=white)
 ![PrettyTable](https://img.shields.io/badge/-PrettyTable-3776AB?style=flat-square&logo=python&logoColor=white)
 ![os](https://img.shields.io/badge/-os-3776AB?style=flat-square&logo=python&logoColor=white)
