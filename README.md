@@ -15,6 +15,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -29,5 +30,6 @@
 
 ## Активное обучение
 
-Я активно изучаю технологии ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) и ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) для расширения моих навыков и улучшения моего профессионального роста.
+Я активно изучаю технологии ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white), ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
+ и ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) для расширения моих навыков и улучшения моего профессионального роста.
 
