@@ -20,6 +20,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFCA28?style=flat-square&logo=sqlalchemy&logoColor=black)
+
 
 # Вы можете связаться со мной по электронной почте: kostoevmahdi8@gmail.com
 
