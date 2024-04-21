@@ -28,7 +28,7 @@
 ![bs4](https://img.shields.io/badge/-bs4-4EAA25?style=flat-square&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/-requests-4EAA25?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![oop](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![oop](https://img.shields.io/badge/-OOP-3776AB?style=flat-square&logo=python&logoColor=white)
 ![WTForms](https://img.shields.io/badge/-WTForms-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
