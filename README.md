@@ -19,7 +19,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![WTForms](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFCA28?style=flat-square&logo=sqlalchemy&logoColor=black)
 ![OWM](https://img.shields.io/badge/-OWM-FFA500?style=flat-square&logo=owm&logoColor=white)
@@ -30,6 +29,7 @@
 ![requests](https://img.shields.io/badge/-requests-4EAA25?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![oop](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WTForms](https://img.shields.io/badge/-WTForms-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 
