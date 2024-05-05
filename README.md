@@ -23,6 +23,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFCA28?style=flat-square&logo=sqlalchemy&logoColor=black)
 ![OWM](https://img.shields.io/badge/-OWM-FFA500?style=flat-square&logo=owm&logoColor=white)
 ![telebot](https://img.shields.io/badge/-telebot-0088cc?style=flat-square&logo=telegram&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![PrettyTable](https://img.shields.io/badge/-PrettyTable-3776AB?style=flat-square&logo=python&logoColor=white)
 ![os](https://img.shields.io/badge/-os-3776AB?style=flat-square&logo=python&logoColor=white)
 ![bs4](https://img.shields.io/badge/-bs4-4EAA25?style=flat-square&logo=python&logoColor=white)
