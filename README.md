@@ -40,7 +40,7 @@
 
 - Telegram: ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white):  @Mahdi_Kostoev
 - Discord: ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white):   @mahdishka
-- WhatsApp: ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white):  +90 5539592394
+- WhatsApp: ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white):  +7 9931700401
 
 ## Активное обучение
 
